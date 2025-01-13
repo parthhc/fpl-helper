@@ -6,7 +6,7 @@ function Spinner() {
           Loading...
         </span>
       </div>
-      <h1 className="flex m-2 max-w-fit sm:text-base md:text-lg lg:text-xl flex-wrap">
+      <h1 className="flex m-2 max-w-52 text-center text-base sm:text-base md:text-lg lg:text-xl items-center justify-center break-words">
         Please wait for at least 5 minutes, can take some time to load!
       </h1>
     </div>
